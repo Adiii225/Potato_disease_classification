@@ -10,6 +10,7 @@ This mobile app, built using React Native, aims to assist farmers in detecting d
 Early detection of these diseases can help farmers maintain healthy crops and increase yield.
 
 **Steps Followed**
+
 **1. Data Collection**
 1. Gathered a comprehensive dataset of potato images showing healthy, early blight, and late blight conditions.
 2. Utilized various sources including agricultural research databases and farmer-contributed images.
@@ -27,6 +28,7 @@ Early detection of these diseases can help farmers maintain healthy crops and in
 2. Leveraged GCP services for hosting the backend and serving the model, ensuring seamless operation.
 
 **Features**
+
 **1. Disease Detection:** Upload an image of a potato leaf to detect early blight or late blight.
 
 **2. User-friendly Interface:** Easy-to-use mobile interface for farmers to quickly analyze their crops.
@@ -34,7 +36,11 @@ Early detection of these diseases can help farmers maintain healthy crops and in
 **3. Real-time Results:** Get instant feedback on the health of your potato crops.
 
 **Technology Stack**
+
 1. Frontend: **React Native**
+   
 2. Backend: **FastAPI**
+   
 3. Model Serving: **TensorFlow Serving**
+   
 4. Cloud Platform: **Google Cloud Platform (GCP)**
