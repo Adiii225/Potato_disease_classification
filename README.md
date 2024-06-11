@@ -2,7 +2,6 @@
 
 **Overview**
 This mobile app, built using React Native, aims to assist farmers in detecting diseases in potatoes, allowing for early intervention and improved crop yields. The app focuses on identifying two major potato diseases:
-
 **1. Early Blight:** Caused by fungi and other similar organisms.
 **2. Late Blight:** Caused by the fungal-like oomycete pathogen Phytophthora infestans.
 
